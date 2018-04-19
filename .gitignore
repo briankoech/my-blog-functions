@@ -1,0 +1,11 @@
+node_modules/
+showman-ac388-firebase-adminsdk-az2m8-0451485a34.json
+.firebase-debug.log
+firebase-debug.log
+local-deployment.sh
+functions/coverage/
+functions/lib
+.runtimeconfig.json
+showman-admin-sdk.json
+.nvimrc
+
